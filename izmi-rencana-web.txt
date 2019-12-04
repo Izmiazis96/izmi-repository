@@ -3,3 +3,4 @@ Izmi Rencana Web Develompent front End
 - Mempelajari Html dengan baik
 - Mempelajari Css dengan Teliti
 - Mempelajari Css3
+- belajar kembali php pemula dengan  berurutan
