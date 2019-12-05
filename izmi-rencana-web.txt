@@ -6,3 +6,5 @@ Izmi Rencana Web Develompent front End
   ~ Struktur data
   ~ Sintaks Dasar
   ~ Array
+  ~ Funtion
+  ~ Variable
