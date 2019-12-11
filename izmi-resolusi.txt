@@ -3,3 +3,6 @@ Izmi Resolusi
 2. ingin bekerja di sebuah perusahaan dengan posisi programming
 3. Memperkuat Fundamental dalam programming
 4. Mempelajari Git & GITHUB
+  ~ belajar branch dalam github
+  ~ belajar fork dalam github
+  ~ belajar git melalui CMD
