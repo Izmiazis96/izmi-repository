@@ -6,4 +6,6 @@ Izmi Resolusi 2020
   ~ belajar branch dalam github
   ~ belajar fork dalam github
   ~ belajar git melalui CMD
-5. Memperdalam OOP (object Oriented Programming)  
+5. Memperdalam OOP (object Oriented Programming) 
+6. Memperdalam Codeigniter dengan baik
+7. memperbaiki project Gjoystore
