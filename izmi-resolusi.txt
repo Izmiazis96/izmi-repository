@@ -1,8 +1,9 @@
-Izmi Resolusi
+Izmi Resolusi 2020
 1. Ingin konsisten ngoding setiap hari paling sedikit 2 jam
-2. ingin bekerja di sebuah perusahaan dengan posisi programming
+2. ingin bekerja di sebuah perusahaan dengan posisi Web developer
 3. Memperkuat Fundamental dalam programming
-4. Mempelajari Git & GITHUB
+4. Mempelajari serta memperdalam Git & GITHUB
   ~ belajar branch dalam github
   ~ belajar fork dalam github
   ~ belajar git melalui CMD
+5. Memperdalam OOP (object Oriented Programming)  
