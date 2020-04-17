@@ -2,8 +2,8 @@ Hallo pak, salam kenal saya azis dari jakarta
 
 Resolusi saya 2019 :
 - Mempelajari fondasi dasar programming
-  ~ Git
-  ~ GitHub
+  ~ Git 
+  ~ GitHub (done)
   ~ Struktur data dan Algotitma
 - Php   
-- Ingin bekerja di startup
+- Ingin bekerja di startup (done)
