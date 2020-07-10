@@ -1,6 +1,6 @@
 Izmi Resolusi 2020
 1. Ingin konsisten ngoding setiap hari paling sedikit 2 jam
-2. ingin bekerja di sebuah perusahaan dengan posisi Web developer
+2. ingin bekerja di sebuah perusahaan dengan posisi Web developer ✅
 3. Memperkuat Fundamental dalam programming
 4. Mempelajari serta memperdalam Git & GITHUB
   ~ belajar branch dalam github
@@ -9,3 +9,16 @@ Izmi Resolusi 2020
 5. Memperdalam OOP (object Oriented Programming) 
 6. Memperdalam Codeigniter dengan baik
 7. memperbaiki project Gjoystore
+
+jalur programming yang di rekomendasikan yang harus dipahami oleh web developer
+-   Git
+-   Basic Terminal Usage (Basic MAC OS, Basic Windows, Basic Linux)
+-   Data Structures & Alogrithms
+-   SOLID, KISS & YAGNI
+-   GitHub
+-   Licenses
+-   Semantic Versioning
+-   SSH
+-   HTTP / HTTPS and APIs
+-   Design Patterns
+-   Character Encodings
